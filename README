@@ -1,0 +1,16 @@
+# SCAD3D.jl
+
+## OpenSCAD-compatible 3D modeling and rendering for Julia
+
+SCAD3D.jl is a Julia package that allows you to create and render 3D models using the OpenSCAD language, with extensions to make it easier to create complex models. SCAD3D is being designed to optimize the creation of 3D models for printing on a 3D printer.
+
+### OpenSCAD Features
+
+- [x] Spheres
+- [x] Boxes
+- [x] Cylinders
+
+### Extra Features
+
+- [ ] 3D text
+- [ ] Chamfer/fillet/rounding operations
